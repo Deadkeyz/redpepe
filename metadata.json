@@ -1,0 +1,9 @@
+{
+"name":"Red Pepe",
+  "symbol":"$RPE",
+  "description":"Iconic red pepe",
+  "image":"https://raw.githubusercontent.com/Deadkeyz/redpepe/main/red.jpg",
+  "websites":[{"label":"Website","url":"https://redpepe.com"}],
+  "socials":[{"url":"https://x.com/redpepe","type":"twitter"},
+  {"url":"https://t.me/redpepe","type":"telegram"}]
+}
